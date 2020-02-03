@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<UberProfileData xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Earnings />
+  <Comments />
+  <Vehicles>
+    <UberVehicle>
+      <Name>Buffalo S</Name>
+      <Brand>Bravado</Brand>
+      <Hash>736902334</Hash>
+      <Color>MetallicBrightBlue</Color>
+      <VehicleClass>Sports</VehicleClass>
+      <Type>UberSelect</Type>
+      <Plate> FC1988 </Plate>
+    </UberVehicle>
+  </Vehicles>
+</UberProfileData>

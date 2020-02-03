@@ -1,0 +1,12 @@
+D:\Projects\Mods\UberDriver\UberDriver\bin\Release\UberDriver.dll
+D:\Projects\Mods\UberDriver\UberDriver\bin\Release\UberDriver.pdb
+D:\Projects\Mods\UberDriver\UberDriver\bin\Release\UberDriver.xml
+D:\Projects\Mods\UberDriver\UberDriver\bin\Release\INMNativeUI.dll
+D:\Projects\Mods\UberDriver\UberDriver\bin\Release\ScriptHookVDotNet2.dll
+D:\Projects\Mods\UberDriver\UberDriver\bin\Release\ScriptHookVDotNet2.xml
+D:\Projects\Mods\UberDriver\UberDriver\obj\Release\UberDriver.Resources.resources
+D:\Projects\Mods\UberDriver\UberDriver\obj\Release\UberDriver.vbproj.GenerateResource.Cache
+D:\Projects\Mods\UberDriver\UberDriver\obj\Release\UberDriver.dll
+D:\Projects\Mods\UberDriver\UberDriver\obj\Release\UberDriver.xml
+D:\Projects\Mods\UberDriver\UberDriver\obj\Release\UberDriver.pdb
+D:\Projects\Mods\UberDriver\UberDriver\obj\Release\UberDriver.vbprojResolveAssemblyReference.cache

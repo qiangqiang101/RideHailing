@@ -1,0 +1,25 @@
+C:\Users\Bartholomew\AppData\Local\Temporary Projects\UberDriver\bin\Debug\UberDriver.dll
+C:\Users\Bartholomew\AppData\Local\Temporary Projects\UberDriver\bin\Debug\UberDriver.pdb
+C:\Users\Bartholomew\AppData\Local\Temporary Projects\UberDriver\bin\Debug\UberDriver.xml
+C:\Users\Bartholomew\AppData\Local\Temporary Projects\UberDriver\bin\Debug\INMNativeUI.dll
+C:\Users\Bartholomew\AppData\Local\Temporary Projects\UberDriver\bin\Debug\ScriptHookVDotNet2.dll
+C:\Users\Bartholomew\AppData\Local\Temporary Projects\UberDriver\bin\Debug\ScriptHookVDotNet2.xml
+C:\Users\Bartholomew\AppData\Local\Temporary Projects\UberDriver\obj\Debug\UberDriver.vbprojResolveAssemblyReference.cache
+C:\Users\Bartholomew\AppData\Local\Temporary Projects\UberDriver\obj\Debug\UberDriver.Resources.resources
+C:\Users\Bartholomew\AppData\Local\Temporary Projects\UberDriver\obj\Debug\UberDriver.vbproj.GenerateResource.Cache
+C:\Users\Bartholomew\AppData\Local\Temporary Projects\UberDriver\obj\Debug\UberDriver.dll
+C:\Users\Bartholomew\AppData\Local\Temporary Projects\UberDriver\obj\Debug\UberDriver.xml
+C:\Users\Bartholomew\AppData\Local\Temporary Projects\UberDriver\obj\Debug\UberDriver.pdb
+D:\Projects\Mods\UberDriver\UberDriver\bin\Debug\UberDriver.dll
+D:\Projects\Mods\UberDriver\UberDriver\bin\Debug\UberDriver.pdb
+D:\Projects\Mods\UberDriver\UberDriver\bin\Debug\UberDriver.xml
+D:\Projects\Mods\UberDriver\UberDriver\bin\Debug\INMNativeUI.dll
+D:\Projects\Mods\UberDriver\UberDriver\bin\Debug\ScriptHookVDotNet2.dll
+D:\Projects\Mods\UberDriver\UberDriver\bin\Debug\ScriptHookVDotNet2.xml
+D:\Projects\Mods\UberDriver\UberDriver\obj\Debug\UberDriver.Resources.resources
+D:\Projects\Mods\UberDriver\UberDriver\obj\Debug\UberDriver.vbproj.GenerateResource.Cache
+D:\Projects\Mods\UberDriver\UberDriver\obj\Debug\UberDriver.dll
+D:\Projects\Mods\UberDriver\UberDriver\obj\Debug\UberDriver.xml
+D:\Projects\Mods\UberDriver\UberDriver\obj\Debug\UberDriver.pdb
+D:\Projects\Mods\UberDriver\UberDriver\obj\Debug\UberDriver.vbprojResolveAssemblyReference.cache
+D:\Projects\Mods\UberDriver\UberDriver\bin\Debug\INMNativeUI.pdb

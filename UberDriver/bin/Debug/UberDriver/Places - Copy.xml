@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LocationData xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Places>
+    <Place>
+      <Name>Maze Bank Arena</Name>
+      <Position>
+        <X>-206.899811</X>
+        <Y>-2000.5199</Y>
+        <Z>27.2402</Z>
+      </Position>
+      <Popularity>0.5</Popularity>
+    </Place>
+    <Place>
+      <Name>LSIA Arrivals Terminal 1</Name>
+      <Position>
+        <X>-1026.91089</X>
+        <Y>-2495.22217</Y>
+        <Z>19.7029476</Z>
+      </Position>
+      <Popularity>0.5</Popularity>
+    </Place>
+    <Place>
+      <Name>LSIA Arrivals Terminal 2</Name>
+      <Position>
+        <X>-1053.62781</X>
+        <Y>-2541.11255</Y>
+        <Z>19.6924152</Z>
+      </Position>
+      <Popularity>0.5</Popularity>
+    </Place>
+    <Place>
+      <Name>LSIA Arrivals Terminal 3</Name>
+      <Position>
+        <X>-1067.70227</X>
+        <Y>-2565.73682</Y>
+        <Z>19.6983738</Z>
+      </Position>
+      <Popularity>0.5</Popularity>
+    </Place>
+    <Place>
+      <Name>LSIA Arrivals Terminal 4</Name>
+      <Position>
+        <X>-1033.02771</X>
+        <Y>-2730.93457</Y>
+        <Z>19.6820278</Z>
+      </Position>
+      <Popularity>0.5</Popularity>
+    </Place>
+    <Place>
+      <Name>LSIA Departure Terminal 1, 2 & 3</Name>
+      <Position>
+        <X>-1022.7901</X>
+        <Y>-2495.98853</Y>
+        <Z>13.3198643</Z>
+      </Position>
+      <Popularity>0.5</Popularity>
+    </Place>
+    <Place>
+      <Name>LSIA Departure Terminal 4</Name>
+      <Position>
+        <X>-1018.46313</X>
+        <Y>-2731.96753</Y>
+        <Z>13.2905817</Z>
+      </Position>
+      <Popularity>0.5</Popularity>
+    </Place>
+    <Place>
+      <Name>Opium Nights Hotel</Name>
+      <Position>
+        <X>-754.3911</X>
+        <Y>-2292.047</Y>
+        <Z>12.4770775</Z>
+      </Position>
+      <Popularity>0.6</Popularity>
+    </Place>
+    <Place>
+      <Name>Opium Nights Hotel Main Entrance</Name>
+      <Position>
+        <X>-691.3461</X>
+        <Y>-2288.55884</Y>
+        <Z>12.6061459</Z>
+      </Position>
+      <Popularity>0.6</Popularity>
+    </Place>
+    <Place>
+      <Name>Centre Los Santos Medical Centre</Name>
+      <Position>
+        <X>313.159668</X>
+        <Y>-1373.75574</Y>
+        <Z>31.4486141</Z>
+      </Position>
+      <Popularity>0.3</Popularity>
+    </Place>
+    <Place>
+      <Name>Vanilla Unicorn</Name>
+      <Position>
+        <X>133.635269</X>
+        <Y>-1307.14612</Y>
+        <Z>28.6886311</Z>
+      </Position>
+      <Popularity>0.5</Popularity>
+    </Place>
+    <Place>
+      <Name>Premium Deluxe Motorsport</Name>
+      <Position>
+        <X>-71.53704</X>
+        <Y>-1090.97314</Y>
+        <Z>26.1184444</Z>
+      </Position>
+      <Popularity>0.2</Popularity>
+    </Place>
+    <Place>
+      <Name>Benny's Original Motor Works</Name>
+      <Position>
+        <X>-205.641129</X>
+        <Y>-1304.23486</Y>
+        <Z>30.9176044</Z>
+      </Position>
+      <Popularity>0.2</Popularity>
+    </Place>
+  </Places>
+</LocationData>
